@@ -1,5 +1,6 @@
-update by akl
+
 第二个test文件
 测试git log 命令，可以查看操作日志
 测试git remote 命令，操作远程库
-闲来无事，随便看看玩玩
+随便看看玩玩
+wdnmd
